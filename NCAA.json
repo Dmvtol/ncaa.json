@@ -2347,7 +2347,7 @@
         },
         {
           "abbreviation" : "TOL",
-          "prestige" : "95",
+          "prestige" : "25",
           "hexColor" : "#003E7E",
           "rival" : "BOWL",
           "headCoach" : {
@@ -2358,11 +2358,11 @@
             "cumulativePrestige" : "0",
             "ratDef" : "50",
             "homeState" : "Ohio",
-            "ratPot" : "50",
-            "ratTalent" : "50",
-            "baselinePrestige" : "95",
-            "ratDiscipline" : "50",
-            "ratOvr" : "50",
+            "ratPot" : "95",
+            "ratTalent" : "75",
+            "baselinePrestige" : "25",
+            "ratDiscipline" : "95",
+            "ratOvr" : "73",
             "name" : "Jason Candle",
             "contractYear" : "0"
           },
