@@ -1,18 +1,18 @@
 {
   "promotionRoutes" : {
-    "PAC" : "XII",
-    "MWC" : "AAC",
-    "XII" : "ACC",
     "B1G" : "SEC",
-    "AAC" : "PAC",
     "ACC" : "B1G",
+    "XII" : "ACC",
+    "PAC" : "XII", 
+    "AAC" : "PAC",
+    "MWC" : "AAC", 
     "SUN" : "MWC",
     "CUSA" : "SUN",
     "MAC" : "CUSA",
     "MVFC" : "MAC"
     "CAA" : "MVFC"
   },
-  "baseYear" : 2022,
+  "baseYear" : 2020,
   "relegationRoutes" : {
     "MWC" : "SUN",
     "SUN" : "CUSA",
