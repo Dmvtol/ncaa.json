@@ -1,4 +1,31 @@
-"proRelMode":"vertical"
+{
+  "proRelMode":"vertical"{
+  "promotionRoutes" : {
+    "PAC" : "XII",
+    "MWC" : "AAC",
+    "XII" : "ACC",
+    "B1G" : "SEC",
+    "AAC" : "PAC",
+    "ACC" : "B1G",
+    "SUN" : "MWC",
+    "CUSA" : "SUN",
+    "MAC" : "CUSA",
+    "MVFC" : "MAC"
+    "CAA" : "MVFC"
+  },
+  "baseYear" : 2022,
+  "relegationRoutes" : {
+    "MWC" : "SUN",
+    "SUN" : "CUSA",
+    "MVFC" : "CAA",
+    "MAC" : "MVFC",
+    "AAC" : "MWC",
+    "CUSA" : "MAC"
+    "PAC" : "AAC"
+    "XII" : "PAC"
+    "ACC" : "XII"
+    "B1G" : "ACC"
+    "SEC" : "B1G"
 {
   "conferences" : [
     {
