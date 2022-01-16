@@ -1,5 +1,6 @@
 {
-  "proRelMode" : Vertical
+  "proRelMode" : "Vertical" 
+  "baseYear" : 2021,{
 {
   "conferences" : [
     {
