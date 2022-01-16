@@ -1,6 +1,10 @@
+
 {
-  "proRelMode" : "Vertical" 
-  "baseYear" : 2021,{
+  "promotionRoutes" : "Vertical"{
+  },
+  "baseYear" : 2022,
+  "relegationRoutes" : "Vertical"{
+  },
 {
   "conferences" : [
     {
