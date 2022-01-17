@@ -1,4 +1,7 @@
 {
+  "baseYear" : 2021, 
+  "proRelMode":"vertical",
+  },
   "conferences" : [
     {
       "confTeams" : [
