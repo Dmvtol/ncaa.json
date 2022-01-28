@@ -1,4 +1,32 @@
 {
+  "proRelMode" : "vertical",
+  "promotionRoutes" : {
+    "B1G" : "SEC",
+    "ACC" : "B1G",
+    "XII" : "ACC",
+    "PAC" : "XII",
+    "AAC" : "PAC",
+    "MWC" : "AAC"'
+    "SUN" : "MWC",
+    "CUSA" : "SUN",
+    "MAC" : "CUSA",
+    "MVFC" : "MAC",
+    "CAA" : "MVFC"
+
+  },
+  "relegationRoutes" : {
+    "SEC" : "B1G",
+    "B1G" : "ACC",
+    "ACC" : "XII",
+    "XII" : "PAC",
+    "PAC" : "AAC",
+    "AAC" : "MWC",
+    "MWC" : "SUN",
+    "SUN" : "CUSA",
+    "CUSA" : "MAC",
+    "MAC" : "MVFC",
+    "MVFC" : "CAA"
+},
   "conferences" : [
     {
       "confTeams" : [
