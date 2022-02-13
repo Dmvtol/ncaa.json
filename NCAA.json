@@ -1948,14 +1948,14 @@
             "name" : "Shawn Elliot",
             "contractYear" : "0"
           },
-          "name" : "078
+          "name" : "078",
           "state" : "Ohio"
         },
         {
-          "abbreviation" : "079
+          "abbreviation" : "079",
           "prestige" : "35",
           "hexColor" : "#501204",
-          "rival" : "080
+          "rival" : "080",
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2020",
@@ -1972,14 +1972,14 @@
             "name" : "Jake Spavital",
             "contractYear" : "0"
           },
-          "name" : "079
+          "name" : "079",
           "state" : "Ohio"
         },
         {
-          "abbreviation" : "080
+          "abbreviation" : "080",
           "prestige" : "35",
           "hexColor" : "#840029",
-          "rival" : "079
+          "rival" : "079",
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2020",
@@ -1996,7 +1996,7 @@
             "name" : "Matt Viator",
             "contractYear" : "0"
           },
-          "name" : "080
+          "name" : "080",
           "state" : "Ohio"
         }
       ],
@@ -2027,8 +2027,8 @@
             "name" : "Bill Clark",
             "contractYear" : "0"
           },
-          "name" : "Alabama Birmingham",
-          "state" : "Alabama"
+          "name" : "081",
+          "state" : "Ohio"
         },
         {
           "abbreviation" : "082"
